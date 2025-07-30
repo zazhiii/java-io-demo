@@ -14,6 +14,9 @@
         <module>03-practice</module>
         <module>04-buffered-stream</module>
         <module>05-transform-stream</module>
+        <module>06-serialization-stream</module>
+        <module>07-print-stream</module>
+        <module>08-compress-stream</module>
     </modules>
 
     <properties>

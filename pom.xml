@@ -9,9 +9,11 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>byte-stream</module>
-        <module>char-stream</module>
-        <module>practice</module>
+        <module>01-byte-stream</module>
+        <module>02-char-stream</module>
+        <module>03-practice</module>
+        <module>04-buffered-stream</module>
+        <module>05-transform-stream</module>
     </modules>
 
     <properties>
